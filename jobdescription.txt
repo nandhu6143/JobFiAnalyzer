@@ -1,0 +1,40 @@
+Job Title: Full-Stack Developer
+
+Location: Hyderabad, India
+
+Company: [Your Company Name]
+
+Job Description:
+
+We are seeking a motivated and talented Full-Stack Developer to join our dynamic team. The ideal candidate will have a strong foundation in both front-end and back-end technologies and a passion for creating exceptional user experiences.
+
+Key Responsibilities:
+
+Develop and maintain web applications using HTML, CSS, JavaScript, and frameworks like React.js.
+Build server-side applications using Node.js and Express.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Optimize applications for maximum speed and scalability.
+Integrate with databases such as MySQL and MongoDB.
+Participate in code reviews, providing constructive feedback to peers.
+Troubleshoot and debug applications, ensuring a high level of performance and security.
+Contribute to project documentation and technical specifications.
+Qualifications:
+
+Bachelor’s degree in Computer Science or a related field.
+Strong understanding of web development technologies: HTML, CSS, JavaScript, Bootstrap, Node.js, and React.js.
+Proficiency in databases, specifically MySQL and MongoDB.
+Familiarity with version control tools such as Git and GitHub.
+Experience with responsive design and mobile-first development.
+Excellent problem-solving skills and attention to detail.
+Strong communication and teamwork abilities.
+Preferred Skills:
+
+Knowledge of Material UI or other design libraries.
+Experience with EJS or other templating engines.
+Previous experience with open-source projects and contributions.
+What We Offer:
+
+Opportunity to work on impactful projects in a collaborative environment.
+Continuous learning and professional development opportunities.
+Flexible work hours and the option for remote work.
+A supportive and inclusive company culture.
